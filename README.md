@@ -1,2 +1,2 @@
 # Practice-repo
-Jut practicing some features of git
+Jut practicing some features of git..
